@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding Review"
+  short_description: "Govern AI coding phases and reviews"
+  default_prompt: "Use $vibe-coding-review to brainstorm a project idea before planning."
